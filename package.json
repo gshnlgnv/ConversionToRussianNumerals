@@ -1,0 +1,14 @@
+{
+  "name": "numbertorus",
+  "version": "1.0.0",
+  "description": "Conversion figures to russian numerals",
+  "main": "numbertorus.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "gshnlgnv",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}

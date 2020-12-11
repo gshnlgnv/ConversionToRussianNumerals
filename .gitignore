@@ -1,0 +1,6 @@
+/node_modules
+/index.html
+.idea
+debug.log
+/debug
+test.js
